@@ -1,3 +1,5 @@
+//nao precisa traduzir ainda
+
 $.lang.register('followhandler.check.follows', '$1 is following the channel.');
 $.lang.register('followhandler.check.notfollows', '$1 is not following the channel.');
 $.lang.register('followhandler.check.usage', 'Usage: !checkfollow [username]');
