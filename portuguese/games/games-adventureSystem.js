@@ -1,5 +1,5 @@
-$.lang.register('adventuresystem.adventure.usage', 'Usage: !adventure [$1].');
-$.lang.register('adventuresystem.alreadyjoined', 'You have already joined the adventure!');
+$.lang.register('adventuresystem.adventure.usage', 'Uso: !boss [$1].');
+$.lang.register('adventuresystem.alreadyjoined', 'Você já ingressou na aventura!');
 $.lang.register('adventuresystem.completed', 'The adventure ended! Survivors are: $1.');
 $.lang.register('adventuresystem.completed.no.win', 'The adventure ended! There are no survivors.');
 $.lang.register('adventuresystem.completed.win.total', 'The adventure ended with $1 survivor(s) and $2 death(s).');
