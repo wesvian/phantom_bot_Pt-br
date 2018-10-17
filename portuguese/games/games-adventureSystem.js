@@ -1,6 +1,6 @@
-$.lang.register('adventuresystem.adventure.usage', 'Uso: !boss [$1].');
+﻿$.lang.register('adventuresystem.adventure.usage', 'Uso: !boss [$1].');
 $.lang.register('adventuresystem.alreadyjoined', 'Você já ingressou na aventura!');
-$.lang.register('adventuresystem.completed', 'The adventure ended! Survivors are: $1.');
+$.lang.register('adventuresystem.completed', 'A Aventura terminou! Os sobreviventes foram: $1.');
 $.lang.register('adventuresystem.completed.no.win', 'The adventure ended! There are no survivors.');
 $.lang.register('adventuresystem.completed.win.total', 'The adventure ended with $1 survivor(s) and $2 death(s).');
 $.lang.register('adventuresystem.join.bettoohigh', 'You can not join with $1, the maximum is $2.');
