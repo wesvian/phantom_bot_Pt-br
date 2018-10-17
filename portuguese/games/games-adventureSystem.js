@@ -18,7 +18,9 @@ $.lang.register('adventuresystem.tamagotchijoined', '$1 is also joining the adve
 $.lang.register('adventuresystem.top5', 'The top 5 adventurerers are: $1.');
 $.lang.register('adventuresystem.top5.empty', 'There haven\'t been any adventure winners recorded yet.');
 
-$.lang.register('adventuresystem.stories.1.title', 'Time Heist');
+//nao precisa traduzir:
+
+$.lang.register('adventuresystem.stories.1.title', 'Bode Capirotesco');
 $.lang.register('adventuresystem.stories.1.chapter.1', 'Your memory is vague, on the table a small laptop is playing a video: "My name is The Architect. The bank of Karabraxos is the most secure bank in the universe. You will rob the bank of Karabraxos!"');
 $.lang.register('adventuresystem.stories.1.chapter.2', 'Unable to leave their minds blank, (caught) slowly feel their mind being drained as The Teller feeds on their thoughts.');
 $.lang.register('adventuresystem.stories.1.chapter.3', 'We find ourselves back in the room we started in as consciousness of (survivors) slowly fades again, only to wake up in our beds like nothing at all has happened.');
